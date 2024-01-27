@@ -1,4 +1,4 @@
-# Jogo da Tabuada com Threads e Semaforos
+# Jogo da Tabuada
 
 ### Disciplina: Sistemas Operacionais
 ### Professor: Rogerio Figueredo de Sousa
