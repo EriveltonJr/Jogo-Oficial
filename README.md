@@ -2,7 +2,7 @@
 
 ### Disciplina: Sistemas Operacionais
 ### Professor: Rogerio Figueredo de Sousa
-### Aluno(s): Francisco Erivelton de Sousa Carvalho Junior / Matheus Loran Loiola Soares / Rodrigo Rodrigues Alves
+### Aluno(s): Francisco Erivelton de Sousa Carvalho Junior / Maria Emília Carvalho Leite / Matheus Loran Loiola Soares / Rodrigo Rodrigues Alves
 
 ### Descrição
 
